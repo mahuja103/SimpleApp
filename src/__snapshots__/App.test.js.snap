@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing the text shown or not 1`] = `
+<div
+  className="App"
+>
+  <button
+    onClick={[Function]}
+  >
+    Click Me to  
+    show
+  </button>
+</div>
+`;
